@@ -18,7 +18,7 @@ ROUTE E-106
 
 --- AAS Standard (64) ---
   [Russian Armed Forces]  tickets: 600
-     2x APC                        BTR-82AM                       Delay: 10m | Respawn: 10m
+     2x APC                        BTR-82AM                       Delay: 10m | Respawn: 10m Change to one BMP2 one BMP2Ms to combat the spike and thermal CV90
      1x Armed Jeep                 GAZ Tigr                       Respawn: 10m
      2x Logistics Truck            KamAZ-5350                     Respawn: 5m
      3x Support Truck              KamAZ-4350                     Respawn: 5m
